@@ -1,5 +1,7 @@
-# Vue 3 + Vite
+## EA Aplicaciones Web - Sergio Joaquin Evangelista Ygnacio
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Repo en GitHub: [https://github.com/Sergi9017/ea8074u202211295](https://github.com/Sergi9017/ea8074u202211295)
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+Primero correr en una terminal: npm run server
+
+En una segunda terminal: npm run dev

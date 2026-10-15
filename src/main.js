@@ -16,12 +16,6 @@ import router from './router.js';
 import pinia from './pinia.js';
 import i18n from './i18n.js';
 
-/**
- * Application entry point.
- * @summary Creates the Vue app, installs plugins, configures the PrimeVue Aura preset
- * and globally registers the PrimeVue components with the "pv-" prefix.
- * @author Firstname Lastname
- */
 const app = createApp(App);
 
 app.use(pinia);
