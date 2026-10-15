@@ -1,0 +1,53 @@
+{
+  "app": {
+    "title": "Saga Tech Management"
+  },
+  "aria": {
+    "toolbar": "Barra de herramientas principal",
+    "sidebar": "Barra lateral",
+    "navigation": "Navegación principal",
+    "toggle-sidebar": "Mostrar u ocultar la barra lateral",
+    "language-switcher": "Selector de idioma",
+    "main-content": "Contenido principal"
+  },
+  "toolbar": {
+    "logo-alt": "Logo de Saga Falabella Perú"
+  },
+  "option": {
+    "home": "Inicio",
+    "new-laptop-inventory-item": "Nuevo Ítem de Inventario de Laptop"
+  },
+  "home": {
+    "title": "Inicio",
+    "content": "Las últimas laptops y tecnología entregadas en tu hogar",
+    "my-tech-collections": "Mis Colecciones Tecnológicas",
+    "load-error": "No se pudo cargar la información. Verifica que el servidor esté en ejecución."
+  },
+  "tech-shelf-section-summary": {
+    "no-laptops": "Sin laptops",
+    "total-laptops": "Total de Laptops",
+    "available-capacity": "Capacidad Disponible",
+    "quantity": "Cantidad"
+  },
+  "new-laptop-inventory-item": {
+    "title": "Nuevo Ítem de Inventario de Laptop",
+    "subtitle": "Agrega ítems de inventario de laptops a tu colección",
+    "section": "Sección de Estante Tecnológico",
+    "section-placeholder": "Selecciona una sección",
+    "laptop": "Laptop",
+    "laptop-placeholder": "Selecciona una laptop",
+    "price": "Precio",
+    "quantity": "Cantidad",
+    "available-capacity": "Capacidad Disponible",
+    "exceeds-capacity": "La cantidad excede la capacidad disponible de la sección.",
+    "invalid-quantity": "La cantidad debe ser un número entero mayor o igual a 1.",
+    "create-error": "No se pudo crear el ítem de inventario de laptop.",
+    "create": "Crear",
+    "cancel": "Cancelar"
+  },
+  "page-not-found": {
+    "title": "Página no encontrada",
+    "message": "La ruta {route} no fue encontrada.",
+    "go-home": "Ir a Inicio"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "app": {
+    "title": "Saga Tech Management"
+  },
+  "aria": {
+    "toolbar": "Main toolbar",
+    "sidebar": "Sidebar",
+    "navigation": "Main navigation",
+    "toggle-sidebar": "Toggle sidebar",
+    "language-switcher": "Language selector",
+    "main-content": "Main content"
+  },
+  "toolbar": {
+    "logo-alt": "Saga Falabella Perú logo"
+  },
+  "option": {
+    "home": "Home",
+    "new-laptop-inventory-item": "New Laptop Inventory Item"
+  },
+  "home": {
+    "title": "Home",
+    "content": "Latest Laptops & Technology Delivered to Your Home",
+    "my-tech-collections": "My Tech Collections",
+    "load-error": "The information could not be loaded. Please verify that the server is running."
+  },
+  "tech-shelf-section-summary": {
+    "no-laptops": "No Laptops",
+    "total-laptops": "Total Laptops",
+    "available-capacity": "Available Capacity",
+    "quantity": "Quantity"
+  },
+  "new-laptop-inventory-item": {
+    "title": "New Laptop Inventory Item",
+    "subtitle": "Add Laptop Inventory Items to Your Collection",
+    "section": "Tech Shelf Section",
+    "section-placeholder": "Select a section",
+    "laptop": "Laptop",
+    "laptop-placeholder": "Select a laptop",
+    "price": "Price",
+    "quantity": "Quantity",
+    "available-capacity": "Available Capacity",
+    "exceeds-capacity": "The quantity exceeds the available capacity of the section.",
+    "invalid-quantity": "The quantity must be a whole number greater than or equal to 1.",
+    "create-error": "The laptop inventory item could not be created.",
+    "create": "Create",
+    "cancel": "Cancel"
+  },
+  "page-not-found": {
+    "title": "Page Not Found",
+    "message": "The route {route} was not found.",
+    "go-home": "Go to Home"
+  }
+}
